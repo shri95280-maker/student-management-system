@@ -25,11 +25,11 @@ button {
 
 table {
   width: 100%;
-  background: pink;
+  background: black;
   border-collapse: collapse;
 }
 th, td {
-  border: 1px solid #ddd;
+  border: 1px solid red;
   padding: 10px;
   text-align: center;
 }
